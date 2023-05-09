@@ -1,0 +1,386 @@
+[
+  {
+    "kind": "youtube#commentThread",
+    "etag": "Ec3DGwsOTDlgqpfW5E3aPPjAcwo",
+    "id": "Ugy2QE9PWfeFrglA8GB4AaABAg",
+    "snippet": {
+      "videoId": "oedDOaqjPgo",
+      "topLevelComment": {
+        "kind": "youtube#comment",
+        "etag": "6yvu0sycT14_djBaWAL3mhxcv5M",
+        "id": "Ugy2QE9PWfeFrglA8GB4AaABAg",
+        "snippet": {
+          "videoId": "oedDOaqjPgo",
+          "textDisplay": "bro for real I&#39;m proud to say your amazing guy damn. Follow me on twitter plz Dev_jdeed",
+          "textOriginal": "bro for real I'm proud to say your amazing guy damn. Follow me on twitter plz Dev_jdeed",
+          "authorDisplayName": "Ibrahim",
+          "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AGIKgqMqVp0nHmNq5-kZJWrDRzNCSeHvKlbzpbbFKg=s48-c-k-c0x00ffffff-no-rj",
+          "authorChannelUrl": "http://www.youtube.com/channel/UCZ5E9xdceOUhpe4ImiYIWIA",
+          "authorChannelId": {
+            "value": "UCZ5E9xdceOUhpe4ImiYIWIA"
+          },
+          "canRate": true,
+          "viewerRating": "none",
+          "likeCount": 0,
+          "publishedAt": "2023-05-08T08:42:05Z",
+          "updatedAt": "2023-05-08T08:42:05Z"
+        }
+      },
+      "canReply": true,
+      "totalReplyCount": 0,
+      "isPublic": true
+    }
+  },
+  {
+    "kind": "youtube#commentThread",
+    "etag": "97AMThfYufsgPhmwP2jVPK-dxlw",
+    "id": "UgyWmTanxJekYe4WJHx4AaABAg",
+    "snippet": {
+      "videoId": "oedDOaqjPgo",
+      "topLevelComment": {
+        "kind": "youtube#comment",
+        "etag": "C6F9y8Wg5aiqYnEzrqQajy3DQA4",
+        "id": "UgyWmTanxJekYe4WJHx4AaABAg",
+        "snippet": {
+          "videoId": "oedDOaqjPgo",
+          "textDisplay": "Bro how the f your not getting million views on your vids. Walla Educator af",
+          "textOriginal": "Bro how the f your not getting million views on your vids. Walla Educator af",
+          "authorDisplayName": "Ibrahim",
+          "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AGIKgqMqVp0nHmNq5-kZJWrDRzNCSeHvKlbzpbbFKg=s48-c-k-c0x00ffffff-no-rj",
+          "authorChannelUrl": "http://www.youtube.com/channel/UCZ5E9xdceOUhpe4ImiYIWIA",
+          "authorChannelId": {
+            "value": "UCZ5E9xdceOUhpe4ImiYIWIA"
+          },
+          "canRate": true,
+          "viewerRating": "none",
+          "likeCount": 0,
+          "publishedAt": "2023-05-08T08:36:05Z",
+          "updatedAt": "2023-05-08T08:36:05Z"
+        }
+      },
+      "canReply": true,
+      "totalReplyCount": 0,
+      "isPublic": true
+    }
+  },
+  {
+    "kind": "youtube#commentThread",
+    "etag": "xC-nwFNb0p4jn6BrQ59TDBgt7F0",
+    "id": "Ugz1bmoJWqODdVZqTVZ4AaABAg",
+    "snippet": {
+      "videoId": "oedDOaqjPgo",
+      "topLevelComment": {
+        "kind": "youtube#comment",
+        "etag": "geH-Ybh6w8EsB3Mce34ifds7Yuw",
+        "id": "Ugz1bmoJWqODdVZqTVZ4AaABAg",
+        "snippet": {
+          "videoId": "oedDOaqjPgo",
+          "textDisplay": "i actually had an error i didnt know if you would know a solution? When I get to the point of uploading my local port link to GPT it says its unable to find my manifest file",
+          "textOriginal": "i actually had an error i didnt know if you would know a solution? When I get to the point of uploading my local port link to GPT it says its unable to find my manifest file",
+          "authorDisplayName": "Christian",
+          "authorProfileImageUrl": "https://yt3.ggpht.com/qd-h0KZgDQJHonB08XwtdtlC8xleoxYOy0sJbNJFZSvkpdr9vWDUqbkUck9tNJSBvJP1yMr-EQ=s48-c-k-c0x00ffffff-no-rj",
+          "authorChannelUrl": "http://www.youtube.com/channel/UCa9fTR6XJ125gzCghso7grQ",
+          "authorChannelId": {
+            "value": "UCa9fTR6XJ125gzCghso7grQ"
+          },
+          "canRate": true,
+          "viewerRating": "none",
+          "likeCount": 0,
+          "publishedAt": "2023-05-02T01:34:15Z",
+          "updatedAt": "2023-05-02T01:34:15Z"
+        }
+      },
+      "canReply": true,
+      "totalReplyCount": 0,
+      "isPublic": true
+    }
+  },
+  {
+    "kind": "youtube#commentThread",
+    "etag": "WXI_UESLHUBPgNMba3jz35GCkdE",
+    "id": "UgwsKEJaZZC4DzR1Iat4AaABAg",
+    "snippet": {
+      "videoId": "oedDOaqjPgo",
+      "topLevelComment": {
+        "kind": "youtube#comment",
+        "etag": "L7K_BpLpy14ORaWsc39tKudeKnc",
+        "id": "UgwsKEJaZZC4DzR1Iat4AaABAg",
+        "snippet": {
+          "videoId": "oedDOaqjPgo",
+          "textDisplay": "bro i missed you ❤",
+          "textOriginal": "bro i missed you ❤",
+          "authorDisplayName": "Streamocu",
+          "authorProfileImageUrl": "https://yt3.ggpht.com/RGyskUNUT6gX9-7xpyLAZgocOJPuVRSA6vk9OgZ7e_mp-l7yoWALptVEzLQlW5vDfHYF6BWn4w=s48-c-k-c0x00ffffff-no-rj",
+          "authorChannelUrl": "http://www.youtube.com/channel/UCMm5aHEJP0G2qluDodNq76w",
+          "authorChannelId": {
+            "value": "UCMm5aHEJP0G2qluDodNq76w"
+          },
+          "canRate": true,
+          "viewerRating": "none",
+          "likeCount": 0,
+          "publishedAt": "2023-05-01T19:22:54Z",
+          "updatedAt": "2023-05-01T19:22:54Z"
+        }
+      },
+      "canReply": true,
+      "totalReplyCount": 0,
+      "isPublic": true
+    }
+  },
+  {
+    "kind": "youtube#commentThread",
+    "etag": "JfoVPPH3PNMyfai1erS3TrGkrAQ",
+    "id": "UgxXZfK3JcXWnJu77Ql4AaABAg",
+    "snippet": {
+      "videoId": "oedDOaqjPgo",
+      "topLevelComment": {
+        "kind": "youtube#comment",
+        "etag": "HUYUmFxCrsic29RM3210y7x_njY",
+        "id": "UgxXZfK3JcXWnJu77Ql4AaABAg",
+        "snippet": {
+          "videoId": "oedDOaqjPgo",
+          "textDisplay": "always on the bleeding edge, my man 💪🏾🩸",
+          "textOriginal": "always on the bleeding edge, my man 💪🏾🩸",
+          "authorDisplayName": "j mula",
+          "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AGIKgqO0KY8K2gXZnHOJUWyuzrCYrK5t92srYGH8bFOuAQ=s48-c-k-c0x00ffffff-no-rj",
+          "authorChannelUrl": "http://www.youtube.com/channel/UCuG2PAJFBCqyaZRgBtb5B2Q",
+          "authorChannelId": {
+            "value": "UCuG2PAJFBCqyaZRgBtb5B2Q"
+          },
+          "canRate": true,
+          "viewerRating": "none",
+          "likeCount": 0,
+          "publishedAt": "2023-04-28T06:31:53Z",
+          "updatedAt": "2023-04-28T06:31:53Z"
+        }
+      },
+      "canReply": true,
+      "totalReplyCount": 0,
+      "isPublic": true
+    }
+  },
+  {
+    "kind": "youtube#commentThread",
+    "etag": "awUVhR7TWsQtK8cZKuOPk-qPs7s",
+    "id": "UgzrW1mXmjNyDF5C6-l4AaABAg",
+    "snippet": {
+      "videoId": "oedDOaqjPgo",
+      "topLevelComment": {
+        "kind": "youtube#comment",
+        "etag": "b0Ecl5chJ8gmWaXF3WoUPU0bzI4",
+        "id": "UgzrW1mXmjNyDF5C6-l4AaABAg",
+        "snippet": {
+          "videoId": "oedDOaqjPgo",
+          "textDisplay": "It really helped me put together the concept using ChatGPT for todos and reminders.. Great work and huge thanks for sharing!",
+          "textOriginal": "It really helped me put together the concept using ChatGPT for todos and reminders.. Great work and huge thanks for sharing!",
+          "authorDisplayName": "David Turton",
+          "authorProfileImageUrl": "https://yt3.ggpht.com/SJ3Q4uXBNvin0aM8cuSGEp9UizHzKU17dXVm0UrjRAkdsZepLqReJZNaYTT7XaA6QOTSyHVl=s48-c-k-c0x00ffffff-no-rj",
+          "authorChannelUrl": "http://www.youtube.com/channel/UC6ZjQpX3hA8qaKd3zlzbMbA",
+          "authorChannelId": {
+            "value": "UC6ZjQpX3hA8qaKd3zlzbMbA"
+          },
+          "canRate": true,
+          "viewerRating": "none",
+          "likeCount": 5,
+          "publishedAt": "2023-04-27T15:52:07Z",
+          "updatedAt": "2023-04-27T15:54:03Z"
+        }
+      },
+      "canReply": true,
+      "totalReplyCount": 1,
+      "isPublic": true
+    }
+  },
+  {
+    "kind": "youtube#commentThread",
+    "etag": "wszg_G6pALT4QK0CmtnwqZ37qf4",
+    "id": "UgztWJKRAfDT1fwolKl4AaABAg",
+    "snippet": {
+      "videoId": "oedDOaqjPgo",
+      "topLevelComment": {
+        "kind": "youtube#comment",
+        "etag": "em8wX7nz0zoMRii-d8jBpLGuQ1I",
+        "id": "UgztWJKRAfDT1fwolKl4AaABAg",
+        "snippet": {
+          "videoId": "oedDOaqjPgo",
+          "textDisplay": "I skipped to the end because I just wanted to see the result, cool stuff Nader!",
+          "textOriginal": "I skipped to the end because I just wanted to see the result, cool stuff Nader!",
+          "authorDisplayName": "Eddy Vinck",
+          "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AGIKgqPpaD3Ko5gSR5_hKobNu9PzRcBxQisrs9KUtniZ6w=s48-c-k-c0x00ffffff-no-rj",
+          "authorChannelUrl": "http://www.youtube.com/channel/UCXhcecEyI1QrDvpTZiwZyFQ",
+          "authorChannelId": {
+            "value": "UCXhcecEyI1QrDvpTZiwZyFQ"
+          },
+          "canRate": true,
+          "viewerRating": "none",
+          "likeCount": 0,
+          "publishedAt": "2023-04-27T07:11:48Z",
+          "updatedAt": "2023-04-27T07:11:48Z"
+        }
+      },
+      "canReply": true,
+      "totalReplyCount": 0,
+      "isPublic": true
+    }
+  },
+  {
+    "kind": "youtube#commentThread",
+    "etag": "xiK4L7P5BaGLcP8JoYDlxzpD7iI",
+    "id": "Ugz2tBHOmXD9_40a_7B4AaABAg",
+    "snippet": {
+      "videoId": "oedDOaqjPgo",
+      "topLevelComment": {
+        "kind": "youtube#comment",
+        "etag": "8DXDLRGd2_9Dn-3mQBA0dFIpk84",
+        "id": "Ugz2tBHOmXD9_40a_7B4AaABAg",
+        "snippet": {
+          "videoId": "oedDOaqjPgo",
+          "textDisplay": "great and i am still on waitlist for both plugins and GPT-4 API even though i signed up the very first day it was introduced. I am also a plus member. This sucks",
+          "textOriginal": "great and i am still on waitlist for both plugins and GPT-4 API even though i signed up the very first day it was introduced. I am also a plus member. This sucks",
+          "authorDisplayName": "Artur Kre",
+          "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AGIKgqPYBcgq8ZL_wioeDzfik48Uzxe1msXu4krwe_NUCA=s48-c-k-c0x00ffffff-no-rj",
+          "authorChannelUrl": "http://www.youtube.com/channel/UCiwn7qgQ7uEESFWZQD0kwMA",
+          "authorChannelId": {
+            "value": "UCiwn7qgQ7uEESFWZQD0kwMA"
+          },
+          "canRate": true,
+          "viewerRating": "none",
+          "likeCount": 1,
+          "publishedAt": "2023-04-26T09:07:26Z",
+          "updatedAt": "2023-04-26T09:07:26Z"
+        }
+      },
+      "canReply": true,
+      "totalReplyCount": 0,
+      "isPublic": true
+    }
+  },
+  {
+    "kind": "youtube#commentThread",
+    "etag": "jUI2vFLFUMNpm9PhMU_Mc-24ikg",
+    "id": "Ugyl_JlvI-bVQSWrTiF4AaABAg",
+    "snippet": {
+      "videoId": "oedDOaqjPgo",
+      "topLevelComment": {
+        "kind": "youtube#comment",
+        "etag": "YG8mtemRsCX1bl81uoC9hA6IiCU",
+        "id": "Ugyl_JlvI-bVQSWrTiF4AaABAg",
+        "snippet": {
+          "videoId": "oedDOaqjPgo",
+          "textDisplay": "Thanks Nader. Love what you do for us!!",
+          "textOriginal": "Thanks Nader. Love what you do for us!!",
+          "authorDisplayName": "Nandan Tyagi ⭕",
+          "authorProfileImageUrl": "https://yt3.ggpht.com/w5h6jAZ_VuW-l4t1EA99V33OeD5Ehkm-tLkMebXQ2evNCpKzMMFHa02AdBSrFtXA0w00RM8zkK0=s48-c-k-c0x00ffffff-no-rj",
+          "authorChannelUrl": "http://www.youtube.com/channel/UC9MMCICdtcUyv9InIr6dS-Q",
+          "authorChannelId": {
+            "value": "UC9MMCICdtcUyv9InIr6dS-Q"
+          },
+          "canRate": true,
+          "viewerRating": "none",
+          "likeCount": 2,
+          "publishedAt": "2023-04-26T06:28:36Z",
+          "updatedAt": "2023-04-26T06:28:36Z"
+        }
+      },
+      "canReply": true,
+      "totalReplyCount": 0,
+      "isPublic": true
+    }
+  },
+  {
+    "kind": "youtube#commentThread",
+    "etag": "wrWEylWtPVFTg6S5PHNUi2XLGZI",
+    "id": "UgzWeuf-2nhsQPtfhjx4AaABAg",
+    "snippet": {
+      "videoId": "oedDOaqjPgo",
+      "topLevelComment": {
+        "kind": "youtube#comment",
+        "etag": "zsFogIFF8s9IFRZdijsT7qV6NSo",
+        "id": "UgzWeuf-2nhsQPtfhjx4AaABAg",
+        "snippet": {
+          "videoId": "oedDOaqjPgo",
+          "textDisplay": "Love you for all you do Nader!! thank you brother",
+          "textOriginal": "Love you for all you do Nader!! thank you brother",
+          "authorDisplayName": "Gregory Mickelson",
+          "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AGIKgqOCBUUbLaji_LzeOFMhjbeglv2GjQbzt03rqJoa=s48-c-k-c0x00ffffff-no-rj",
+          "authorChannelUrl": "http://www.youtube.com/channel/UCASa9-LbIXjANdfFTnHgWHg",
+          "authorChannelId": {
+            "value": "UCASa9-LbIXjANdfFTnHgWHg"
+          },
+          "canRate": true,
+          "viewerRating": "none",
+          "likeCount": 0,
+          "publishedAt": "2023-04-26T05:31:25Z",
+          "updatedAt": "2023-04-26T05:31:25Z"
+        }
+      },
+      "canReply": true,
+      "totalReplyCount": 0,
+      "isPublic": true
+    }
+  },
+  {
+    "kind": "youtube#commentThread",
+    "etag": "T2Gz1rvJribC-0rFvZdBS68LHeA",
+    "id": "Ugzeij4T5UASQ_Qj2_d4AaABAg",
+    "snippet": {
+      "videoId": "oedDOaqjPgo",
+      "topLevelComment": {
+        "kind": "youtube#comment",
+        "etag": "1Aq67jgRbRwpoEPQqMbA-2gfqKE",
+        "id": "Ugzeij4T5UASQ_Qj2_d4AaABAg",
+        "snippet": {
+          "videoId": "oedDOaqjPgo",
+          "textDisplay": "Exactly what I was looking for. thank you",
+          "textOriginal": "Exactly what I was looking for. thank you",
+          "authorDisplayName": "Tarun Sukhu",
+          "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AGIKgqNNAeutns1aCNaoPc-sw0chmj_nnP-t53FHCnF8=s48-c-k-c0x00ffffff-no-rj",
+          "authorChannelUrl": "http://www.youtube.com/channel/UCYPiSwLDcVUg8dqkX_hLMTA",
+          "authorChannelId": {
+            "value": "UCYPiSwLDcVUg8dqkX_hLMTA"
+          },
+          "canRate": true,
+          "viewerRating": "none",
+          "likeCount": 1,
+          "publishedAt": "2023-04-26T02:52:06Z",
+          "updatedAt": "2023-04-26T02:52:06Z"
+        }
+      },
+      "canReply": true,
+      "totalReplyCount": 0,
+      "isPublic": true
+    }
+  },
+  {
+    "kind": "youtube#commentThread",
+    "etag": "5pSpxaBUePcAT6HsfQr5E5TFMcg",
+    "id": "Ugwg6svrc4UxGjHFBmh4AaABAg",
+    "snippet": {
+      "videoId": "oedDOaqjPgo",
+      "topLevelComment": {
+        "kind": "youtube#comment",
+        "etag": "gQ_VAJ7fxK1WBd4Z29Q3VB6Iqnc",
+        "id": "Ugwg6svrc4UxGjHFBmh4AaABAg",
+        "snippet": {
+          "videoId": "oedDOaqjPgo",
+          "textDisplay": "Thanks for the tutorial, nice audio upgrade, with a bit of room sound treatment and some work on the lighting, the new Nader YouTube era will begin.",
+          "textOriginal": "Thanks for the tutorial, nice audio upgrade, with a bit of room sound treatment and some work on the lighting, the new Nader YouTube era will begin.",
+          "authorDisplayName": "Ilyes Oussama",
+          "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AGIKgqNXZ1qe6D-lto1WyRblMjy0KZ-MQ2CN42GqdrmfSQ=s48-c-k-c0x00ffffff-no-rj",
+          "authorChannelUrl": "http://www.youtube.com/channel/UC9f4LcqlX11QW2oLl4F81Ag",
+          "authorChannelId": {
+            "value": "UC9f4LcqlX11QW2oLl4F81Ag"
+          },
+          "canRate": true,
+          "viewerRating": "none",
+          "likeCount": 0,
+          "publishedAt": "2023-04-26T02:15:12Z",
+          "updatedAt": "2023-04-26T02:15:12Z"
+        }
+      },
+      "canReply": true,
+      "totalReplyCount": 0,
+      "isPublic": true
+    }
+  }
+]
